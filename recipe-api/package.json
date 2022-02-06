@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "fastify": "^3.27.1"
+    "fastify": "^3.2.1"
   }
 }
